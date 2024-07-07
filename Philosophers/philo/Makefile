@@ -6,14 +6,14 @@
 #    By: edecorce <edecorce@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/04/25 12:24:55 by edecorce          #+#    #+#              #
-#    Updated: 2024/07/05 16:31:51 by edecorce         ###   ########.fr        #
+#    Updated: 2024/07/07 00:10:17 by edecorce         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = philosophers
+NAME = philo
 HEADER_DICT = .
-CC = gcc -g
-TFLAGS = -fsanitize=thread -g -O1
+CC = gcc -g3
+TFLAGS = #-fsanitize=thread -g -O1
 CFLAGS = -Wall -Wextra -Werror
 RM = rm -f
 
