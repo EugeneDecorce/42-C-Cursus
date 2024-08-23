@@ -1,0 +1,10 @@
+WP_URL=edecorce.42.fr
+WP_TITLE=wordpress
+
+WP_ADMIN_LOGIN=eugene
+WP_ADMIN_PASSWORD=eugene
+WP_ADMIN_EMAIL=eugene@42.fr
+
+WP_USER_LOGIN=edecorce
+WP_USER_PASSWORD=12345
+WP_USER_EMAIL=edecorce@42.fr
